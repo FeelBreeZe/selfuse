@@ -11,3 +11,13 @@ DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-KEYWORD,paypal
+
+# 18+ Missav
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,client-rapi-missav.recombee.com
+DOMAIN-SUFFIX,akamai-content-network.com	
+DOMAIN-KEYWORD,missav
+
+# 18+ Femjoyhunter
+DOMAIN-SUFFIX,femjoyhunter.com
+DOMAIN-SUFFIX,ssl.hwcdn.net
