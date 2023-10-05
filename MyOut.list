@@ -12,6 +12,31 @@ IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.0.0.1/32,no-resolve
 
+#Google HK
+IP-CIDR,142.250.66.106/32,no-resolve
+IP-CIDR,142.250.66.138/32,no-resolve
+IP-CIDR,142.250.199.74/32,no-resolve
+IP-CIDR,142.250.204.42/32,no-resolve
+IP-CIDR,142.250.204.74/32,no-resolve
+IP-CIDR,142.250.204.138/32,no-resolve
+IP-CIDR,142.250.204.106/32,no-resolve
+IP-CIDR,142.250.207.74/32,no-resolve
+
+IP-CIDR,172.217.24.74/32,no-resolve
+IP-CIDR,172.217.24.106/32,no-resolve
+IP-CIDR,172.217.24.234/32,no-resolve
+IP-CIDR,172.217.25.10/32,no-resolve
+IP-CIDR,172.217.27.10/32,no-resolve
+IP-CIDR,172.217.27.42/32,no-resolve
+IP-CIDR,172.217.31.10/32,no-resolve
+
+IP-CIDR,216.58.200.234/32,no-resolve
+
+#Other IPS
+IP-CIDR,158.101.151.98/32,no-resolve
+IP-CIDR,176.126.70.47/32,no-resolve
+IP-CIDR,204.79.197.217/32,no-resolve
+
 # Netflix
 DOMAIN-SUFFIX,amazonaws.com
 
