@@ -6,6 +6,42 @@
 # 表示包含这个xxxx域名关键词的所有网站链接
 # DOMAIN-KEYWORD,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+#Github
+DOMAIN-KEYWORD,ghcr.io
+DOMAIN-SUFFIX,github.githubassets.com
+DOMAIN-SUFFIX,central.github.com
+DOMAIN-SUFFIX,desktop.githubusercontent.com
+DOMAIN-SUFFIX,camo.githubusercontent.com
+DOMAIN-SUFFIX,github.map.fastly.net
+DOMAIN-SUFFIX,github.global.ssl.fastly.net
+DOMAIN-SUFFIX,gist.github.com
+DOMAIN-KEYWORD,github.io
+DOMAIN-KEYWORD,github.com
+DOMAIN-KEYWORD,api.github.com
+DOMAIN-KEYWORD,raw.githubusercontent.com
+DOMAIN-SUFFIX,user-images.githubusercontent.com
+DOMAIN-SUFFIX,favicons.githubusercontent.com
+DOMAIN-SUFFIX,avatars5.githubusercontent.com
+DOMAIN-SUFFIX,avatars4.githubusercontent.com
+DOMAIN-SUFFIX,avatars3.githubusercontent.com
+DOMAIN-SUFFIX,avatars2.githubusercontent.com
+DOMAIN-SUFFIX,avatars1.githubusercontent.com
+DOMAIN-SUFFIX,avatars0.githubusercontent.com
+DOMAIN-SUFFIX,avatars.githubusercontent.com
+DOMAIN-SUFFIX,codeload.github.com
+DOMAIN-KEYWORD,github-cloud.s3.amazonaws.com
+DOMAIN-KEYWORD,github-com.s3.amazonaws.com
+DOMAIN-KEYWORD,github-production-release-asset-2e65be.s3.amazonaws.com
+DOMAIN-KEYWORD,github-production-user-asset-6210df.s3.amazonaws.com
+DOMAIN-KEYWORD,github-production-repository-file-5c1aeb.s3.amazonaws.com
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,media.githubusercontent.com
+DOMAIN-SUFFIX,objects.githubusercontent.com
+DOMAIN-KEYWORD,raw.github.com
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+
+
 # DNS Server
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
