@@ -7,6 +7,7 @@
 # DOMAIN-KEYWORD,xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 #Github
+DOMAIN-KEYWORD,docker.io
 DOMAIN-KEYWORD,ghcr.io
 DOMAIN-SUFFIX,github.githubassets.com
 DOMAIN-SUFFIX,central.github.com
