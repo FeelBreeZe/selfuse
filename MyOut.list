@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-KEYWORD,raw.github.com
 DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
 DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
+DOMAIN-SUFFIX,registry-1.docker.io
 
 
 
